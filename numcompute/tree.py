@@ -7,6 +7,7 @@ NumPy-only implementation with:
 - predict() and predict_proba()
 - max_features support for ensembles
 
+
 The streaming behaviour is deterministic: each new chunk is appended to the
 stored training buffer and the tree is rebuilt from all observed data so far.
 This keeps the API online-friendly while staying simple and testable.
