@@ -19,7 +19,6 @@ from typing import Optional
 
 import numpy as np
 
-
 def _as_2d_array(X, *, dtype=float, name="X") -> np.ndarray:
     arr = np.asarray(X, dtype=dtype)
     if arr.ndim != 2:
