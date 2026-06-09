@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # Phase 2 Assignment 2.2
+=======
+>>>>>>> dcd22fadc939c7f2405c4798c56ef9c3f61241ec
 # NumCompute-Stream
 
 NumCompute-Stream is a NumPy-based streaming machine learning framework developed as an extension of the NumCompute numerical computing toolkit.
@@ -87,6 +90,7 @@ python demo/demo_stream.py
 * NumPy
 * matplotlib
 * pytest (testing)
+<<<<<<< HEAD
 
 # Phase 1 Assignment 2.1 - Base for Phase 2
 # NumCompute-Stream
@@ -163,3 +167,5 @@ from numcompute.ensemble import RandomForestClassifier
 from numcompute.preprocessing import StandardScaler
 from numcompute.visualise import plot_metric_over_time
 ```
+=======
+>>>>>>> dcd22fadc939c7f2405c4798c56ef9c3f61241ec
